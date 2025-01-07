@@ -24,9 +24,9 @@ author:
   avatar           : "profile.png"
   name             : "Qisheng Xu"
   pronouns         : # example: "she/her"  
-  bio              : "Ph.D. candidate\n the College of Computer Science and Technology, \n National University of Defense Technology"
+  bio              : "Ph.D. candidate" #"\n the College of Computer Science and Technology, \n National University of Defense Technology"
   location         : "Changsha, Hunan, China"
-  employer         : "National University of Defense Technology"
+  employer         : "NUDT"
   uri              : # URL
   email            : "qishengxu@nudt.edu.cn" 
 
@@ -44,7 +44,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "https://github.com/chessxu"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
